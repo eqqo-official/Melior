@@ -8,7 +8,7 @@ Original mod ideas and choice implementation of existing mods' features, unified
 ## Cobbled stone variants
 
 <p align="center">
-  <img src=https://github.com/eqqo-official/Melior/blob/20a3fea3f24c84a6f8d0acb7df20168ba7677fd8/Graphics/Cobbled%20Stones.png
+  <img src=https://github.com/eqqo-official/Melior/blob/main/Graphics/Cobbled%20Stones.png
 </p>
 
 Cobbled **GRANITE, ANDESITE & DIORITE** to replace the dropped item when mining ***without*** Silk Touch.
@@ -19,7 +19,7 @@ Potentially add Cobbled variants for **TUFF, CALCITE** & **DRIPSTONE** too.
 ## Minimal HUD
 
 <p align="center">
-  <img src=https://github.com/eqqo-official/Melior/blob/e64cf96b8a627a77ebec04bd46d1a551680c3625/Graphics/hotbar.gif
+  <img src=https://github.com/eqqo-official/Melior/blob/main/Graphics/hotbar.gif
 </p>
 
 Remove **CROSSHAIR** and **POTION EFFECTS** from HUD, and implement **AUTOHIDE HOTBAR**.
@@ -31,7 +31,7 @@ When the player scrolls the hotbar reappears for a few seconds then hides away a
 ## Dried Nether Wood
 
 <p align="center">
-  <img src=https://github.com/eqqo-official/Melior/blob/b69578faca70d089f20374b2c276e0b9f9fd954f/Graphics/Dried%20Nether%20Wood.png
+  <img src=https://github.com/eqqo-official/Melior/blob/main/Graphics/Dried%20Nether%20Wood.png
 </p>
 
 Dried variants of **WARPED STEM** and **CRIMSON STEM** and all of their accompanying hyphae/stripped/planks/stairs/slabs/fences etc.
@@ -72,7 +72,9 @@ Depending on the licensing, these chosen mod features may be able to be extracte
   
 # Better Foliage
 
-<img align="center" src="https://github.com/eqqo-official/Melior/blob/main/Graphics/better-foliage.jpg">
+<p align="center">
+  <img src=https://github.com/eqqo-official/Melior/blob/main/Graphics/better-foliage.jpg
+</p>
 
 This mod has not been updated since 1.16
 
