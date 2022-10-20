@@ -56,7 +56,9 @@ Potentially also add a fix for the villager AI's confusion around **TRAPDOORS**.
 Also implement ***ZOMBIE-PROOF DOORS*** so villagers are safe once they're inside.
   
 <p align="center">
-  ________________________
+  <br>
+  ______________
+  <br>
   </p>
 
   # Implementation of other mods' features:
