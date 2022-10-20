@@ -74,7 +74,7 @@ Depending on the licensing, these chosen mod features may be able to be extracte
 (If integrated implementation not allowed, some way of disabling all but the chosen features of other necessary mods wouldhave to be the workaround)
   
 
-# - Quark
+# Quark
 
 ## Vertical Slabs
 
