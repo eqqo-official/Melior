@@ -1,3 +1,6 @@
+<p align="center">
+  <img src=https://github.com/eqqo-official/Melior/blob/main/Graphics/banner.png
+</p>
 # Melior
 A vanilla+ mod focused on beautification and immersion.
 
@@ -52,6 +55,10 @@ Right click it whilst holding to ACTIVATE or DEACTIVATE the magnet functionality
 Implementation of another mod I had commissioned that stops the **VILLAGERS** from forgetting where their **BED** and **WORKSTATION** was.
 
 Potentially also add a fix for the villager AI's confusion around **TRAPDOORS**.
+
+<p align="center">
+  <img src=https://github.com/eqqo-official/Melior/blob/main/Graphics/villager-trapdoor.gif
+</p>
 
 Also implement ***ZOMBIE-PROOF DOORS*** so villagers are safe once they're inside.
 
