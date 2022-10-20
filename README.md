@@ -55,6 +55,10 @@ Potentially also add a fix for the villager AI's confusion around **TRAPDOORS**.
 
 Also implement ***ZOMBIE-PROOF DOORS*** so villagers are safe once they're inside.
   
+## Time
+
+Extend the day/night cycle to be **1 HOUR**, 30 minutes each of day and night.
+  
 <p align="center">
   <br>
   ______________
