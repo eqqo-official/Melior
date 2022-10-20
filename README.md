@@ -5,7 +5,9 @@ Feature List plan:
 
 ## Cobbled stone variants
 
-![cobbled_stones](https://github.com/eqqo-official/Melior/blob/20a3fea3f24c84a6f8d0acb7df20168ba7677fd8/Graphics/Cobbled%20Stones.png)
+<p align="center">
+  <img src=https://github.com/eqqo-official/Melior/blob/20a3fea3f24c84a6f8d0acb7df20168ba7677fd8/Graphics/Cobbled%20Stones.png
+</p>
 
 Cobbled **GRANITE, ANDESITE & DIORITE** to replace the dropped item when mining ***without*** Silk Touch.
 Also obtainable through the **STONECUTTER**.
@@ -14,7 +16,9 @@ Potentially add Cobbled variants for **TUFF, CALCITE** & **DRIPSTONE** too.
 
 ## Minimal HUD
 
-![](https://github.com/eqqo-official/Melior/blob/e64cf96b8a627a77ebec04bd46d1a551680c3625/Graphics/hotbar.gif)
+<p align="center">
+  <img src=https://github.com/eqqo-official/Melior/blob/e64cf96b8a627a77ebec04bd46d1a551680c3625/Graphics/hotbar.gif
+</p>
 
 Remove **CROSSHAIR** and **POTION EFFECTS** from HUD, and implement **AUTOHIDE HOTBAR**.
 
@@ -24,7 +28,9 @@ When the player scrolls the hotbar reappears for a few seconds then hides away a
 
 ## Dried Nether Wood
 
-![Dried Nether Wood](https://github.com/eqqo-official/Melior/blob/b69578faca70d089f20374b2c276e0b9f9fd954f/Graphics/Dried%20Nether%20Wood.png)
+<p align="center">
+  <img src=https://github.com/eqqo-official/Melior/blob/b69578faca70d089f20374b2c276e0b9f9fd954f/Graphics/Dried%20Nether%20Wood.png
+</p>
 
 Dried variants of **WARPED STEM** and **CRIMSON STEM** and all of their accompanying hyphae/stripped/planks/stairs/slabs/fences etc.
 
