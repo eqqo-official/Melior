@@ -7,7 +7,7 @@ Feature plan:
 
 ![cobbled_stones](https://github.com/eqqo-official/Melior/blob/20a3fea3f24c84a6f8d0acb7df20168ba7677fd8/Graphics/Cobbled%20Stones.png)
 
-For **GRANITE, ANDESITE & DIORITE** to replace the dropped item from mining ***without*** Silk Touch.
+Cobbled **GRANITE, ANDESITE & DIORITE** to replace the dropped item from mining ***without*** Silk Touch.
 Also obtainable through the **STONECUTTER**.
 
 Potentially add Cobbled variants for **TUFF, CALCITE** & **DRIPSTONE** too.
