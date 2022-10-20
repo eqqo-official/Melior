@@ -3,7 +3,7 @@
 </p>
   
 # Melior
-A vanilla+ mod focused on beautification and immersion.
+A vanilla+ mod focused on beautification and immersion for Forge 1.19.2 (with potentially a Fabric port down the road)
 
 Original mod ideas and choice implementation of existing mods' features, unified into a single place to best imitate the experience of Eqqo's Minecraft world.
 
