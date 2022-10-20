@@ -35,3 +35,5 @@ The enigmatic HEART OF THE SEA acts like a magnet. Right click it whilst holding
 Implementation of another mod I had commissioned that stops the **VILLAGERS** from forgetting where their **BED** and **WORKSTATION** was.
 
 Potentially also add a fix for the villager AI's confusion around **TRAPDOORS**.
+
+Also implement ***ZOMBIE-PROOF DOORS*** so villagers are safe once they're inside.
