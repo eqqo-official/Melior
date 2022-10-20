@@ -54,3 +54,9 @@ Implementation of another mod I had commissioned that stops the **VILLAGERS** fr
 Potentially also add a fix for the villager AI's confusion around **TRAPDOORS**.
 
 Also implement ***ZOMBIE-PROOF DOORS*** so villagers are safe once they're inside.
+
+# Implementation of other mods' features:
+
+## Quark
+
+## Vertical Slabs
