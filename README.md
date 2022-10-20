@@ -81,12 +81,11 @@ This mod has not been updated since 1.16
 
 Include all features ***EXCEPT***:
 
-**
-- SHORT GRASS & MYCELIUM
+**- SHORT GRASS & MYCELIUM
 - ROUND LOGS
 - BETTER CACTUS
 - NETHERRACK VINES
-- RISING SOULS
+- RISING SOULS**
 
 
 # Quark
