@@ -69,4 +69,4 @@ Include credit and reference to all mods included.
 
 
 ## Shear vines
-The tip of a vine can now be right clicked with Shears. When you do so, the vine will no longer be able to grow.
+<img src=https://github.com/eqqo-official/Melior/blob/1d9df59669c6f96796a9668a9ca4f1e17e1b5d61/Graphics/more-potted-plants.jpg> The tip of a vine can now be right clicked with Shears. When you do so, the vine will no longer be able to grow.
