@@ -1,7 +1,7 @@
 # Melior
 Beautification mod that gently tweaks the vanilla experience
 
-Feature plan:
+Feature List plan:
 
 ## Cobbled stone variants
 
