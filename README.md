@@ -31,7 +31,9 @@ Dried variants of **WARPED STEM** and **CRIMSON STEM** and all of their accompan
 Obtained by smelting those blocks into their respective ***Dried*** variants
 
 ## Heart of the Sea Magnet
-![Heart of the Sea](https://github.com/eqqo-official/Melior/blob/21e0733b3e4bbef42fa9ca0b361791f9620094ce/Graphics/heartofthesea.gif)
+<p align="center">
+  <img src=https://github.com/eqqo-official/Melior/blob/21e0733b3e4bbef42fa9ca0b361791f9620094ce/Graphics/heartofthesea.gif
+</p>
 
 The enigmatic HEART OF THE SEA acts like a magnet. Right click it whilst holding to ACTIVATE or DEACTIVATE the magnet functionality.
 
