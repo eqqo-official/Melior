@@ -190,3 +190,11 @@ Otherwise, they both behave the same as normal Furnaces.
 - Enchanted Books show which items they can be applied to.
   
   <br clear="left"/>
+  
+## Variant Animal Textures
+
+<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/main/Graphics/variant-animal-textures.jpg">
+  Cows, Pigs, and Chicken will now have randomized textures from a small pool of variants.
+  >Remove the *special rare variants*
+  
+  <br clear="left"/>
