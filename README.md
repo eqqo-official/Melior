@@ -79,7 +79,7 @@ Depending on the licensing, these chosen mod features may be able to be extracte
 
 This mod has not been updated since 1.16
 
-Include all features ***EXCEPT***:
+Include all features **EXCEPT**:
 
 **- SHORT GRASS & MYCELIUM**
 
