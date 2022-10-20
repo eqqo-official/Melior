@@ -89,6 +89,9 @@ This mod has not been updated since 1.16
 
 # Quark
 
+Much of the Quark mod is not required and could be trimmed out.
+>If 1-for-1 implementation of these features is too cheeky, perhaps an included config file to disable everything but these features. 
+
 ## Vertical Slabs
 
 <img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/main/Graphics/vertical-slabs.jpg">
