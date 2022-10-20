@@ -66,7 +66,10 @@ Include credit and reference to all mods included.
 
 ## More Potted Plants
 <img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/d9d21a0aceb9cb6d494513b43f1fb481c6870ce3/Graphics/more-potted-plants.jpg">
+17 new blocks can now be added to Flower Pots. The feature image shows a bunch, but you can also add the vanilla 2 tall flowers, and nether wart.
 
+1.16.3+: Twisted vines, warped vines, large ferns, tall grass, vines, and nether sprouts are also added.
+<br clear="left"/>
 
 ## Shear vines
 <img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/d9d21a0aceb9cb6d494513b43f1fb481c6870ce3/Graphics/shear-vine-tips.jpg"> The tip of a vine can now be right clicked with Shears.
