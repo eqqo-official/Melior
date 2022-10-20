@@ -73,6 +73,12 @@ Depending on the licensing, these chosen mod features may be able to be extracte
 
 (If integrated implementation not allowed, some way of disabling all but the chosen features of other necessary mods wouldhave to be the workaround)
   
+# Better Foliage
+
+This mod has not been updated since 1.16
+
+
+
 
 # Quark
 
