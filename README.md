@@ -38,7 +38,7 @@ Obtained by smelting those blocks into their respective ***Dried*** variants
 
 ## Heart of the Sea Magnet
 <p align="center">
-  <img src=https://github.com/eqqo-official/Melior/blob/21e0733b3e4bbef42fa9ca0b361791f9620094ce/Graphics/heartofthesea.gif
+  <img src=https://github.com/eqqo-official/Melior/blob/e355cc0aad7159dcafaa0ff2b178dc58cf0fec4e/Graphics/heartofthesea.gif
 </p>
 
 The enigmatic HEART OF THE SEA acts like a magnet. Right click it whilst holding to ACTIVATE or DEACTIVATE the magnet functionality.
