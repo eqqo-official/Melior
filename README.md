@@ -14,6 +14,8 @@ Potentially add Cobbled variants for **TUFF, CALCITE** & **DRIPSTONE** too.
 
 ## Minimal HUD
 
+!(Graphics/hotbar.gif)
+
 Remove **CROSSHAIR** and **POTION EFFECTS** from HUD, and implement **AUTOHIDE HOTBAR**.
 
 When the player scrolls the hotbar reappears for a few seconds then hides away again for that *minimal aesthetic*.
