@@ -198,3 +198,42 @@ Otherwise, they both behave the same as normal Furnaces.
   >Remove the *special rare variants*
   
   <br clear="left"/>
+
+## Automatic Recipe Unlock
+
+<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/main/Graphics/automatic-recipe-unlock.jpg">
+  Every single recipe is unlocked and displayed in the recipe book as soon as you load a world.
+
+If new recipes are added to the game via new mods added or updated, those will be unlocked when you get back in.
+
+This feature is an exception to the general quark theme, but since you are using mods, it's fair to assume you don't need the game to spoon-feed you recipes.
+  
+  <br clear="left"/>
+
+## Double Door Opening
+
+<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/main/Graphics/double-door-opening.jpg">
+  Double doors open together when right clicked. Finally!
+  
+  <br clear="left"/>
+
+## Hoe Harvesting
+
+<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/main/Graphics/hoe-harvesting.jpg">
+  Breaking grass or crops with a hoe will break a 3x3 of them. A Diamond Hoe will break a 5x5 instead. If you put Fortune on the hoe, it'll also apply that effect to everything it breaks.
+  
+  <br clear="left"/>
+
+## Simple Harvest
+
+<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/main/Graphics/simple-harvest.jpg">
+  Right clicking a crop will harvest it and replant it. If you have Hoe Harvesting enabled, you can also harvest a large area at once.
+  
+  <br clear="left"/>
+  
+## Villagers Follow Emeralds
+
+<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/main/Graphics/villagers-follow-emeralds.jpg">
+  Holding an Emerald Block causes nearby villagers to follow the player, much like animals do for food items.
+  
+  <br clear="left"/>
