@@ -115,7 +115,7 @@ When you do so, the vine will no longer be able to grow.
 
 ## Variant Ladders
 
-<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/main/Graphics/variant-ladders.jpg">
+<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/main/Graphics/variant-ladders-1.18.jpg">
   Ladders can be made of all the different wood types.
   
   To compensate for the fact that sticks do not come in different wood types, the recipe for ladders is changed to have a single plank of the corresponding wood type in the center.
