@@ -20,7 +20,7 @@ Original mod ideas and choice implementation of existing mods' features, unified
 Cobbled **GRANITE, ANDESITE & DIORITE** to replace the dropped item when mining ***without*** Silk Touch.
 Also obtainable through the **STONECUTTER**.
 
->[Textures provided](https://github.com/eqqo-official/Melior/tree/main/Mods%20for%20Resource/Cobbled%20Stone%20Variants)
+>[Textures resource](https://github.com/eqqo-official/Melior/tree/main/Mods%20for%20Resource/Cobbled%20Stone%20Variants)
 
 Potentially add Cobbled variants for **TUFF, CALCITE** & **DRIPSTONE** too.
 
@@ -46,7 +46,7 @@ Dried variants of **WARPED STEM** and **CRIMSON STEM** and all of their accompan
 
 Obtained by smelting those blocks into their respective ***DRIED*** variants
   
->[Textures provided](https://github.com/eqqo-official/Melior/tree/main/Mods%20for%20Resource/Dried%20Nether%20Variants)
+>[Textures resource](https://github.com/eqqo-official/Melior/tree/main/Mods%20for%20Resource/Dried%20Nether%20Variants)
 
 ## Heart of the Sea Magnet
 <p align="center">
