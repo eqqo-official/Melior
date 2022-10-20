@@ -95,6 +95,12 @@ This mod has not been updated since 1.16
 - BETTER CACTUS
 - NETHERRACK VINES
 - RISING SOULS
+  
+# Dynamic Surroundings
+
+>https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings
+
+Another mod not updated to 1.19
 
 # Time Control
   >https://www.curseforge.com/minecraft/mc-mods/time-control
