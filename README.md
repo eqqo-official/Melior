@@ -62,3 +62,11 @@ Include credit and reference to all mods included.
 # - Quark
 
 ## Vertical Slabs
+
+
+## More Potted Plants
+
+
+
+## Shear vines
+The tip of a vine can now be right clicked with Shears. When you do so, the vine will no longer be able to grow.
