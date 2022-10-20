@@ -130,3 +130,10 @@ When you do so, the vine will no longer be able to grow.
 Otherwise, they both behave the same as normal Furnaces.
   
   <br clear="left"/>
+  
+## Wooden Posts
+
+<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/main/Graphics/wooden-posts.jpg">
+  Wooden Posts can be crafted with Logs or Stripped Logs. These are slim log style blocks you can lay down vertically or horizontally. Chains and lanterns can also connect to them.
+  
+  <br clear="left"/>
