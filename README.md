@@ -80,7 +80,7 @@ Or instead, inclusion of config-set mods in a potential **MELIOR MODPACK**
 
 This mod has not been updated since 1.16
 
-**DO NOT INCLUDE:**
+**NOT TO BE INCLUDED:**
 
 - SHORT GRASS & MYCELIUM
 - ROUND LOGS
