@@ -1,7 +1,7 @@
 # Melior
 A vanilla+ mod focused on beautification and immersion.
 
-Original mod features and choice implementation of exisitng mods, unified into a single place to best imitate the experience of Eqqo's Minecraft world.
+Original mod ideas and choice implementation of existing mods' features, unified into a single place to best imitate the experience of Eqqo's Minecraft world.
 
 Feature List plan:
 
