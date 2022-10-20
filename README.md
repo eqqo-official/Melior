@@ -165,3 +165,12 @@ Otherwise, they both behave the same as normal Furnaces.
   Wooden Posts can be crafted with Logs or Stripped Logs. These are slim log style blocks you can lay down vertically or horizontally. Chains and lanterns can also connect to them.
   
   <br clear="left"/>
+
+## Greener Grass
+
+<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/main/Graphics/greener-grass.jpg">
+  Grass is greener on the Quark side. Biome colors are still respected, but are greener non the less.
+  
+  No need to include Quark's config option.
+  
+  <br clear="left"/>
