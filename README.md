@@ -57,6 +57,8 @@ Also implement ***ZOMBIE-PROOF DOORS*** so villagers are safe once they're insid
 
 # Implementation of other mods' features:
 
-#### Quark
+Include credit and reference to all mods included.
+
+# Quark
 
 ## Vertical Slabs
