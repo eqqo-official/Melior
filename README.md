@@ -56,13 +56,11 @@ Potentially also add a fix for the villager AI's confusion around **TRAPDOORS**.
 Also implement ***ZOMBIE-PROOF DOORS*** so villagers are safe once they're inside.
   
 <p align="center">
-  -
-  <br>
+  ---
+  </p>
+
   # Implementation of other mods' features:
-  <br>
-  -
-  <br>
-</p>
+
 
 Some of these mods may not be updated to 1.19 so inclusion in this unified mod makes sense.
 Depending on the licensing, these chosen mod features may be able to be extracted and implemented with proper credit given, in order to trim unwanted content.
