@@ -60,6 +60,7 @@ Right click it whilst holding to ACTIVATE or DEACTIVATE the magnet functionality
 ## Villager Fixes
 
 Implementation of another mod I had commissioned that stops the **VILLAGERS** from forgetting where their **BED** and **WORKSTATION** was.
+>[Villager persistence](https://github.com/eqqo-official/Melior/blob/main/Mods%20for%20Resource/villagerpersistence-1.0.0.1.jar)
 
 Potentially also add a fix for the villager AI's confusion around **TRAPDOORS**.
 
