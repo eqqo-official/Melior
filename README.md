@@ -1,6 +1,7 @@
 <p align="center">
   <img src=https://github.com/eqqo-official/Melior/blob/main/Graphics/banner.png
 </p>
+  
 # Melior
 A vanilla+ mod focused on beautification and immersion.
 
