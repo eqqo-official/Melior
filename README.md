@@ -34,7 +34,7 @@ Remove **CROSSHAIR** and **POTION EFFECTS** from HUD, and implement **AUTOHIDE H
 
 When the player scrolls the hotbar reappears for a few seconds then hides away again for that *minimal aesthetic*.
 
->[Previous mods provided](https://github.com/eqqo-official/Melior/tree/main/Mods%20for%20Resource) - I own this mod
+>[Previous mods provided](https://github.com/eqqo-official/Melior/tree/main/Mods%20for%20Resource) - I own the MinimalHUD mod (fiverr commission)
 
 ## Dried Nether Wood
 
