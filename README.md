@@ -18,4 +18,5 @@ Remove **CROSSHAIR** and **POTION EFFECTS** from HUD, and implement **AUTOHIDE H
 
 When the player scrolls the hotbar reappears for a few seconds then hides away again for that *minimal aesthetic*
 
->Example mods provided in ***Mods for Resource*** folder - *give credit to those mod authors (minimal hud was a mod I had commissioned, so no credit needed there*
+>Example mods provided in ***Mods for Resource*** folder - *give credit to those mod authors 
+>(minimal hud was a mod I had commissioned, so no credit needed there)*
