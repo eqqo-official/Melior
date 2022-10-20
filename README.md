@@ -14,7 +14,7 @@ Potentially add Cobbled variants for **TUFF, CALCITE** & **DRIPSTONE** too.
 
 ## Minimal HUD
 
-![](https://github.com/eqqo-official/Melior/blob/674fe99d666dd07c8d9392663538370b1e154117/Graphics/hotbar.gif)
+![](https://github.com/eqqo-official/Melior/blob/e64cf96b8a627a77ebec04bd46d1a551680c3625/Graphics/hotbar.gif)
 
 Remove **CROSSHAIR** and **POTION EFFECTS** from HUD, and implement **AUTOHIDE HOTBAR**.
 
