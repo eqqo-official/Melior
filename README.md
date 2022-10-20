@@ -60,7 +60,7 @@ Right click it whilst holding to ACTIVATE or DEACTIVATE the magnet functionality
 ## Villager Fixes
 
 Implementation of another mod I had commissioned that stops the **VILLAGERS** from forgetting where their **BED** and **WORKSTATION** was.
->[Villager Persistence](https://github.com/eqqo-official/Melior/blob/main/Mods%20for%20Resource/villagerpersistence-1.0.0.1.jar)
+>[Villager Persistence](https://github.com/eqqo-official/Melior/blob/main/Mods%20for%20Resource)
 
 Potentially also add a fix for the villager AI's confusion around **TRAPDOORS**.
 
@@ -69,7 +69,7 @@ Potentially also add a fix for the villager AI's confusion around **TRAPDOORS**.
 </p>
 
 Also implement ***ZOMBIE-PROOF DOORS*** so villagers are safe once they're inside.
->[Zombie Proof Doors](https://github.com/eqqo-official/Melior/blob/main/Mods%20for%20Resource/zombieproofdoors_1.16.5-1.3.jar)
+>[Zombie Proof Doors](https://github.com/eqqo-official/Melior/blob/main/Mods%20for%20Resource)
 
 ## Remove Black Sky
 
