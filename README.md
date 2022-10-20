@@ -174,3 +174,16 @@ Otherwise, they both behave the same as normal Furnaces.
   >No need to include Quark's config option.
   
   <br clear="left"/>
+  
+## Improved Tooltips
+
+<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/main/Graphics/improved-tooltips.jpg">
+ A few tooltips are changed around the place with visual elements:
+
+- Tools and armor have their attributes displayed with icons.
+- Food shows how much it'll heal with icons, and will show when it'll give you negative effects.
+- Shulker Boxes show their contents visually.
+- Maps display in the tooltip.
+- Enchanted Books show which items they can be applied to.
+  
+  <br clear="left"/>
