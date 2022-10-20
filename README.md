@@ -39,7 +39,7 @@ Dried variants of **WARPED STEM** and **CRIMSON STEM** and all of their accompan
 Obtained by smelting those blocks into their respective ***DRIED*** variants
 
 ## Heart of the Sea Magnet
-<p align="center">
+<p align="center" width="500">
   <img src=https://github.com/eqqo-official/Melior/blob/e355cc0aad7159dcafaa0ff2b178dc58cf0fec4e/Graphics/heartofthesea.gif
 </p>
 
