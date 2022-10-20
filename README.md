@@ -45,6 +45,8 @@ When the player scrolls the hotbar reappears for a few seconds then hides away a
 Dried variants of **WARPED STEM** and **CRIMSON STEM** and all of their accompanying hyphae/stripped/planks/stairs/slabs/fences etc.
 
 Obtained by smelting those blocks into their respective ***DRIED*** variants
+  
+>[Textures provided](https://github.com/eqqo-official/Melior/tree/main/Mods%20for%20Resource/Dried%20Nether%20Variants)
 
 ## Heart of the Sea Magnet
 <p align="center">
