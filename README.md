@@ -9,3 +9,5 @@ Feature plan:
 
 For **GRANITE, ANDESITE & DIORITE** to replace the dropped item from mining ***without*** Silk Touch.
 Also obtainable through the **STONECUTTER**
+
+Potentially add Cobbled variants for **TUFF, CALCITE** & **DRIPSTONE** too.
