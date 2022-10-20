@@ -57,11 +57,11 @@ Also implement ***ZOMBIE-PROOF DOORS*** so villagers are safe once they're insid
   
 <p align="center">
   -
-  
+  <br>
   # Implementation of other mods' features:
-  
+  <br>
   -
-  
+  <br>
 </p>
 
 Some of these mods may not be updated to 1.19 so inclusion in this unified mod makes sense.
