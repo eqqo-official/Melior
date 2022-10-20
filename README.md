@@ -82,9 +82,13 @@ This mod has not been updated since 1.16
 Include all features ***EXCEPT***:
 
 **- SHORT GRASS & MYCELIUM**
+
 **- ROUND LOGS**
+
 **- BETTER CACTUS**
+
 **- NETHERRACK VINES**
+
 **- RISING SOULS**
 
 
