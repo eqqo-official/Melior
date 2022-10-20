@@ -79,17 +79,13 @@ Depending on the licensing, these chosen mod features may be able to be extracte
 
 This mod has not been updated since 1.16
 
-Include all features **EXCEPT**:
+**DO NOT INCLUDE:**
 
-**- SHORT GRASS & MYCELIUM**
-
-**- ROUND LOGS**
-
-**- BETTER CACTUS**
-
-**- NETHERRACK VINES**
-
-**- RISING SOULS**
+- SHORT GRASS & MYCELIUM
+- ROUND LOGS
+- BETTER CACTUS
+- NETHERRACK VINES
+- RISING SOULS
 
 
 # Quark
