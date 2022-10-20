@@ -69,7 +69,7 @@ Potentially also add a fix for the villager AI's confusion around **TRAPDOORS**.
 </p>
 
 Also implement ***ZOMBIE-PROOF DOORS*** so villagers are safe once they're inside.
->[Previous mod provided](https://github.com/eqqo-official/Melior/tree/main/Mods%20for%20Resource)
+>[Previous mod provided](https://github.com/eqqo-official/Melior/blob/main/Mods%20for%20Resource/MinimalHud-1.16.5-1.0.jar)
 
 ## Remove Black Sky
 
