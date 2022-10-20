@@ -63,14 +63,14 @@ Include credit and reference to all mods included.
 
 ## Vertical Slabs
 
-<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/d9d21a0aceb9cb6d494513b43f1fb481c6870ce3/Graphics/vertical-slabs.jpg">
+<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/main/Graphics/vertical-slabs.jpg">
   They exist for every vanilla block that has a slab, and can be crafted by placing 3 of the respective slab in a column.
   
   <br clear="left"/>
 
 ## More Potted Plants
   
-<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/d9d21a0aceb9cb6d494513b43f1fb481c6870ce3/Graphics/more-potted-plants.jpg">
+<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/main/Graphics/more-potted-plants.jpg">
   17 new blocks can now be added to Flower Pots. The feature image shows a bunch, but you can also add the vanilla 2 tall flowers, and nether wart.
 
   Twisted vines, warped vines, large ferns, tall grass, vines, and nether sprouts are also added.
@@ -79,30 +79,30 @@ Include credit and reference to all mods included.
 
 ## Shear vines
   
-<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/d9d21a0aceb9cb6d494513b43f1fb481c6870ce3/Graphics/shear-vine-tips.jpg">
+<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/main/Graphics/shear-vine-tips.jpg">
   The tip of a vine can now be right clicked with Shears.
   
 When you do so, the vine will no longer be able to grow.
   
   <br clear="left"/>
 
-## Shear vines
+## Thatch
 
-<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/d9d21a0aceb9cb6d494513b43f1fb481c6870ce3/Graphics/thatch.jpg">
+<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/main/Graphics/thatch.jpg">
   Thatch is created via a 2x2 of Wheat. It can be used for stairs and slabs or turned back into 4 Wheat. You can use it for some fancy medieval roof styles.
   
   <br clear="left"/>
 
 ## Variant Bookshelves
 
-<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/d9d21a0aceb9cb6d494513b43f1fb481c6870ce3/Graphics/variant-bookshelves.jpg">
+<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/main/Graphics/variant-bookshelves.jpg">
   You can now make Bookshelves out of all wood types. All of these bookshelves work for the Enchanting Table too.
   
   <br clear="left"/>
 
 ## Variant Chests
 
-<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/d9d21a0aceb9cb6d494513b43f1fb481c6870ce3/Graphics/variant-chests.jpg">
+<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/main/Graphics/variant-chests.jpg">
   Chests can be made of all the different wood types. Each one is styled differently for the type of wood you use.
 
   To get the vanilla chest, you can craft a chest with more than one type of wood, or woods added by other mods.
@@ -115,7 +115,7 @@ When you do so, the vine will no longer be able to grow.
 
 ## Variant Ladders
 
-<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/d9d21a0aceb9cb6d494513b43f1fb481c6870ce3/Graphics/variant-ladders.jpg">
+<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/main/Graphics/variant-ladders.jpg">
   Ladders can be made of all the different wood types.
   
   To compensate for the fact that sticks do not come in different wood types, the recipe for ladders is changed to have a single plank of the corresponding wood type in the center.
@@ -124,7 +124,7 @@ When you do so, the vine will no longer be able to grow.
 
 ## Variant Furnaces
 
-<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/d9d21a0aceb9cb6d494513b43f1fb481c6870ce3/Graphics/variant-furnaces.jpg">
+<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/main/Graphics/variant-furnaces.jpg">
   Furnaces crafted from Deepslate or Blackstone have new textures. Additionally, Blackstone Furnaces can emit soul fire particles if placed over a block that can light up with soul fire.
 
 Otherwise, they both behave the same as normal Furnaces.
