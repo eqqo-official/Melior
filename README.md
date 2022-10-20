@@ -34,7 +34,7 @@ When the player scrolls the hotbar reappears for a few seconds then hides away a
 
 Dried variants of **WARPED STEM** and **CRIMSON STEM** and all of their accompanying hyphae/stripped/planks/stairs/slabs/fences etc.
 
-Obtained by smelting those blocks into their respective ***Dried*** variants
+Obtained by smelting those blocks into their respective ***DRIED*** variants
 
 ## Heart of the Sea Magnet
 <p align="center">
