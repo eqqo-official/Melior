@@ -11,7 +11,7 @@ Cobbled **GRANITE, ANDESITE & DIORITE** to replace the dropped item when mining 
 Also obtainable through the **STONECUTTER**.
 
 Potentially add Cobbled variants for **TUFF, CALCITE** & **DRIPSTONE** too.
-  
+-
 
 ## Minimal HUD
 
@@ -20,14 +20,14 @@ Remove **CROSSHAIR** and **POTION EFFECTS** from HUD, and implement **AUTOHIDE H
 When the player scrolls the hotbar reappears for a few seconds then hides away again for that *minimal aesthetic*.
 
 >Example mods provided in ***Mods for Resource*** folder - *give credit where due - (**MinimalHUD** was a mod I had commissioned, so no credit needed there)*
-  
+-
 
 ## Dried Nether Wood
 
 Dried variants of **WARPED STEM** and **CRIMSON STEM** and all of their accompanying hyphae/stripped/planks/stairs/slabs/fences etc.
 
 Obtained by smelting those blocks into their respective ***Dried*** variants
-  
+-
 
 ## Heart of the Sea Magnet
 
