@@ -34,7 +34,7 @@ Remove **CROSSHAIR** and **POTION EFFECTS** from HUD, and implement **AUTOHIDE H
 
 When the player scrolls the hotbar reappears for a few seconds then hides away again for that *minimal aesthetic*.
 
->Example mods provided in ***Mods for Resource*** folder - *give credit where due - (**MinimalHUD** was a mod I had commissioned, so no credit needed there)*
+>[Example mods provided](https://github.com/eqqo-official/Melior/tree/main/Mods%20for%20Resource) - *give credit where due - (**MinimalHUD** was a mod I had commissioned, so no credit needed there)*
 
 ## Dried Nether Wood
 
@@ -46,7 +46,7 @@ Dried variants of **WARPED STEM** and **CRIMSON STEM** and all of their accompan
 
 Obtained by smelting those blocks into their respective ***DRIED*** variants
   
->[Textures resource](https://github.com/eqqo-official/Melior/tree/main/Mods%20for%20Resource/Dried%20Nether%20Variants)
+>[Texture Resource](https://github.com/eqqo-official/Melior/tree/main/Mods%20for%20Resource/Dried%20Nether%20Variants)
 
 ## Heart of the Sea Magnet
 <p align="center">
@@ -60,7 +60,7 @@ Right click it whilst holding to ACTIVATE or DEACTIVATE the magnet functionality
 ## Villager Fixes
 
 Implementation of another mod I had commissioned that stops the **VILLAGERS** from forgetting where their **BED** and **WORKSTATION** was.
->[Villager persistence](https://github.com/eqqo-official/Melior/blob/main/Mods%20for%20Resource/villagerpersistence-1.0.0.1.jar)
+>[Villager Persistence](https://github.com/eqqo-official/Melior/blob/main/Mods%20for%20Resource/villagerpersistence-1.0.0.1.jar)
 
 Potentially also add a fix for the villager AI's confusion around **TRAPDOORS**.
 
@@ -69,6 +69,7 @@ Potentially also add a fix for the villager AI's confusion around **TRAPDOORS**.
 </p>
 
 Also implement ***ZOMBIE-PROOF DOORS*** so villagers are safe once they're inside.
+>[Zombie Proof Doors](https://github.com/eqqo-official/Melior/blob/main/Mods%20for%20Resource/zombieproofdoors_1.16.5-1.3.jar)
 
 ## Remove Black Sky
 
