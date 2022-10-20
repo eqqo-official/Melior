@@ -64,9 +64,6 @@ Also implement ***ZOMBIE-PROOF DOORS*** so villagers are safe once they're insid
 
   # Implementation of other mods' features:
 
-
-Some of these mods may not be updated to 1.19 so inclusion in this unified mod makes sense.
-
 Depending on the licensing, these chosen mod features may be able to be extracted and implemented with proper credit given, in order to trim unwanted content.
   
   Include credit and reference to all mods included.
