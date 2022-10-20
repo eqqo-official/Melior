@@ -7,6 +7,8 @@ A vanilla+ mod focused on beautification and immersion for Forge 1.19.2 (with po
 
 Original mod ideas and choice implementation of existing mods' features, unified into a single place to best imitate the experience of Eqqo's Minecraft world.
 
+>^ Resources for previous version mods provided above ^
+
 ### Planned Feature List:
 
 ## Cobbled stone variants
