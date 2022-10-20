@@ -72,6 +72,8 @@ Or instead, inclusion of config-set mods in a potential **MELIOR MODPACK**
   
 # Better Foliage
 
+>https://www.curseforge.com/minecraft/mc-mods/better-foliage
+
 <p align="center">
   <img src=https://github.com/eqqo-official/Melior/blob/main/Graphics/better-foliage.jpg
 </p>
