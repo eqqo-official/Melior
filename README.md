@@ -55,12 +55,6 @@ Potentially also add a fix for the villager AI's confusion around **TRAPDOORS**.
 
 Also implement ***ZOMBIE-PROOF DOORS*** so villagers are safe once they're inside.
   
-## Time
-
-Extend the day/night cycle to be **1 HOUR**
-  
-30 minutes each of day and night.
-  
 <p align="center">
   <br>
   ______________
@@ -71,10 +65,10 @@ Extend the day/night cycle to be **1 HOUR**
   # Implementation of other mods' features:
 
 Depending on the licensing, these chosen mod features may be able to be extracted and implemented with proper credit given, in order to trim unwanted content.
+
+Or instead, inclusion of config-set mods in a potential **MELIOR MODPACK**
   
   Include credit and reference to all mods included.
-
-(If integrated implementation not allowed, some way of disabling all but the chosen features of other necessary mods wouldhave to be the workaround)
   
 # Better Foliage
 
@@ -92,7 +86,11 @@ This mod has not been updated since 1.16
 - NETHERRACK VINES
 - RISING SOULS
 
-
+# Time Control
+  >https://www.curseforge.com/minecraft/mc-mods/time-control
+ 
+The Day/Night cycle set to **1 HOUR**
+  
 # Quark
 
 Much of the Quark mod is not required and could be trimmed out.
