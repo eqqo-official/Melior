@@ -40,7 +40,7 @@ Obtained by smelting those blocks into their respective ***DRIED*** variants
 
 ## Heart of the Sea Magnet
 <p align="center">
-  <img width="500px" src=https://github.com/eqqo-official/Melior/blob/e355cc0aad7159dcafaa0ff2b178dc58cf0fec4e/Graphics/heartofthesea.gif
+  <img width="400px" src=https://github.com/eqqo-official/Melior/blob/e355cc0aad7159dcafaa0ff2b178dc58cf0fec4e/Graphics/heartofthesea.gif
 </p>
 
 The enigmatic **HEART OF THE SEA** acts like a magnet attracting items upto **7** blocks away (potentially configurable).
