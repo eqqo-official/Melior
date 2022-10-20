@@ -75,9 +75,18 @@ Depending on the licensing, these chosen mod features may be able to be extracte
   
 # Better Foliage
 
+![Better Foliage](https://github.com/eqqo-official/Melior/blob/main/Graphics/better-foliage.jpg)
+
 This mod has not been updated since 1.16
 
+Include all features ***EXCEPT***:
 
+**
+- SHORT GRASS & MYCELIUM
+- ROUND LOGS
+- BETTER CACTUS
+- NETHERRACK VINES
+- RISING SOULS
 
 
 # Quark
