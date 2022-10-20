@@ -171,6 +171,6 @@ Otherwise, they both behave the same as normal Furnaces.
 <img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/main/Graphics/greener-grass.jpg">
   Grass is greener on the Quark side. Biome colors are still respected, but are greener non the less.
   
-  No need to include Quark's config option.
+  >No need to include Quark's config option.
   
   <br clear="left"/>
