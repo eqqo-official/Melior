@@ -102,7 +102,7 @@ And potentially the directional *blowing* of particles - campfire smoke / rain /
 
 Depending on the licensing, these chosen mod features may be able to be extracted and implemented with proper credit given, in order to trim unwanted content.
 
-Or instead, inclusion of config-set mods in a potential **MELIOR MODPACK**
+Or instead, inclusion of config-set mods in a potential **EQQO MODPACK**
   
   Include credit and reference to all mods included.
   
