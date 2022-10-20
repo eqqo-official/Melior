@@ -63,6 +63,10 @@ Include credit and reference to all mods included.
 
 ## Vertical Slabs
 
+<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/d9d21a0aceb9cb6d494513b43f1fb481c6870ce3/Graphics/vertical-slabs.jpg">
+  They exist for every vanilla block that has a slab, and can be crafted by placing 3 of the respective slab in a column.
+  
+  <br clear="left"/>
 
 ## More Potted Plants
   
@@ -83,5 +87,46 @@ When you do so, the vine will no longer be able to grow.
   <br clear="left"/>
 
 ## Shear vines
-<img align="left" width="200px" src="">
+
+<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/d9d21a0aceb9cb6d494513b43f1fb481c6870ce3/Graphics/thatch.jpg">
   Thatch is created via a 2x2 of Wheat. It can be used for stairs and slabs or turned back into 4 Wheat. You can use it for some fancy medieval roof styles.
+  
+  <br clear="left"/>
+
+## Variant Bookshelves
+
+<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/d9d21a0aceb9cb6d494513b43f1fb481c6870ce3/Graphics/variant-bookshelves.jpg">
+  You can now make Bookshelves out of all wood types. All of these bookshelves work for the Enchanting Table too.
+  
+  <br clear="left"/>
+
+## Variant Chests
+
+<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/d9d21a0aceb9cb6d494513b43f1fb481c6870ce3/Graphics/variant-chests.jpg">
+  Chests can be made of all the different wood types. Each one is styled differently for the type of wood you use.
+
+  To get the vanilla chest, you can craft a chest with more than one type of wood, or woods added by other mods.
+
+  These variant chests will also replace the chests found in structures in the world.
+
+  Variant Chests can be converted into Vanilla Chests by placing them in a crafting table.
+  
+  <br clear="left"/>
+
+## Variant Ladders
+
+<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/d9d21a0aceb9cb6d494513b43f1fb481c6870ce3/Graphics/variant-ladders.jpg">
+  Ladders can be made of all the different wood types.
+  
+  To compensate for the fact that sticks do not come in different wood types, the recipe for ladders is changed to have a single plank of the corresponding wood type in the center.
+  
+  <br clear="left"/>
+
+## Variant Furnaces
+
+<img align="left" width="200px" src="https://github.com/eqqo-official/Melior/blob/d9d21a0aceb9cb6d494513b43f1fb481c6870ce3/Graphics/variant-furnaces.jpg">
+  Furnaces crafted from Deepslate or Blackstone have new textures. Additionally, Blackstone Furnaces can emit soul fire particles if placed over a block that can light up with soul fire.
+
+Otherwise, they both behave the same as normal Furnaces.
+  
+  <br clear="left"/>
