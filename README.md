@@ -66,7 +66,7 @@ Removal of the lower half of the screen turning black below **Y=60**.
 ## Wind
 
 <p align="center">
-  <img src=https://github.com/eqqo-official/Melior/blob/main/Graphics/field-slow.gif img src=https://github.com/eqqo-official/Melior/blob/main/Graphics/field-fast.gif>
+  <img src=https://github.com/eqqo-official/Melior/blob/main/Graphics/field-slow.gif><img src=https://github.com/eqqo-official/Melior/blob/main/Graphics/field-fast.gif>
 </p>
   
 <p align="center">
