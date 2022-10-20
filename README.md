@@ -28,4 +28,10 @@ Obtained by smelting those blocks into their respective ***Dried*** variants
 
 ## Heart of the Sea Magnet
 
-The enigmatic HEART OF THE SEA acts like a magnet. Right click it whilst holding to ACTIVATE or DEACTIVATE the magent functionality.
+The enigmatic HEART OF THE SEA acts like a magnet. Right click it whilst holding to ACTIVATE or DEACTIVATE the magnet functionality.
+
+## Villager Fixes
+
+Implementation of another mod I had commissioned that stops the **VILLAGERS** from forgetting where their **BED** and **WORKSTATION** was.
+
+Potentially also add a fix for the villager AI's confusion around **TRAPDOORS**.
