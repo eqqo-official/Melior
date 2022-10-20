@@ -24,6 +24,8 @@ When the player scrolls the hotbar reappears for a few seconds then hides away a
 
 ## Dried Nether Wood
 
+![Dried Nether Wood](https://github.com/eqqo-official/Melior/blob/b69578faca70d089f20374b2c276e0b9f9fd954f/Graphics/Dried%20Nether%20Wood.png)
+
 Dried variants of **WARPED STEM** and **CRIMSON STEM** and all of their accompanying hyphae/stripped/planks/stairs/slabs/fences etc.
 
 Obtained by smelting those blocks into their respective ***Dried*** variants
