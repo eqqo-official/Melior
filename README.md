@@ -57,7 +57,9 @@ Also implement ***ZOMBIE-PROOF DOORS*** so villagers are safe once they're insid
   
 ## Time
 
-Extend the day/night cycle to be **1 HOUR**, 30 minutes each of day and night.
+Extend the day/night cycle to be **1 HOUR**
+  
+30 minutes each of day and night.
   
 <p align="center">
   <br>
