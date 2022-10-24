@@ -22,8 +22,6 @@ Also obtainable through the **STONECUTTER**.
 
 >[Texture Resource](https://github.com/eqqo-official/Melior/tree/main/Mods%20for%20Resource/Cobbled%20Stone%20Variants)
 
-Potentially add Cobbled variants for **TUFF, CALCITE** & **DRIPSTONE** too.
-
 ## Minimal HUD
 
 <p align="center">
