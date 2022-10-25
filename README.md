@@ -69,14 +69,6 @@ Potentially also add a fix for the villager AI's confusion around **TRAPDOORS**.
 Also implement ***ZOMBIE-PROOF DOORS*** so villagers are safe once they're inside.
 >[Previous mod provided](https://github.com/eqqo-official/Melior/blob/main/Mods%20for%20Resource)
 
-## Remove Black Sky
-
-<p align="center">
-  <img src=https://github.com/eqqo-official/Melior/blob/main/Graphics/void.gif
-</p>
-
-Removal of the lower half of the screen turning black below **Y=60**.
-
 ## Wind
 
 The addition of **WIND** through the manipulation of the *Shaders/World/Animation Speed*, gradually ramping up and down.
