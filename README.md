@@ -106,8 +106,3 @@ This mod has not been updated since 1.16
 >https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings
 
 Another mod not updated to 1.19
-
-# Time Control
-  >https://www.curseforge.com/minecraft/mc-mods/time-control
- 
-The Day/Night cycle set to **1 HOUR**
