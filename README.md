@@ -69,20 +69,6 @@ Potentially also add a fix for the villager AI's confusion around **TRAPDOORS**.
 Also implement ***ZOMBIE-PROOF DOORS*** so villagers are safe once they're inside.
 >[Previous mod provided](https://github.com/eqqo-official/Melior/blob/main/Mods%20for%20Resource)
 
-## Wind
-
-The addition of **WIND** through the manipulation of the *Shaders/World/Animation Speed*, gradually ramping up and down.
-  
-Combined with matching **WIND SOUNDS**
-  
-And potentially the directional *blowing* of particles - campfire smoke / rain / potion effects, etc.
-  
-<p align="center">
-  <img width="400px" src=https://github.com/eqqo-official/Melior/blob/main/Graphics/field-slow.gif><img width="400px" src=https://github.com/eqqo-official/Melior/blob/main/Graphics/field-fast.gif>
-</p>
-  
-<p align="center">
-  <br>
   ______________
   <br>
   <br>
