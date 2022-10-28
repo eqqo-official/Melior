@@ -86,7 +86,7 @@ Update these outdated mods to 1.19 and implement some of their features into the
 
 This mod has not been updated since 1.16
 
-**<u>NOT TO BE INCLUDED:**
+**<u>NOT</u> TO BE INCLUDED:**
 
 - SHORT GRASS & MYCELIUM
 - ROUND LOGS
