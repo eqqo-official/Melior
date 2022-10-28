@@ -20,7 +20,7 @@ Original mod ideas and choice implementation of existing mods' features, unified
 Cobbled **GRANITE, ANDESITE & DIORITE** to replace the dropped item when mining ***without*** Silk Touch.
 Also obtainable through the **STONECUTTER**.
 
->[Texture Resource](https://github.com/eqqo-official/Melior/tree/main/Mods%20for%20Resource/Cobbled%20Stone%20Variants)
+>[Textures Provided](https://github.com/eqqo-official/Melior/tree/main/Mods%20for%20Resource/Cobbled%20Stone%20Variants)
 
 ## Minimal HUD
 
@@ -32,7 +32,7 @@ Remove **CROSSHAIR** and **POTION EFFECTS** from HUD, and implement **AUTOHIDE H
 
 When the player scrolls the hotbar reappears for a few seconds then hides away again for that *minimal aesthetic*.
 
->[Previous mods provided](https://github.com/eqqo-official/Melior/tree/main/Mods%20for%20Resource) - I own the MinimalHUD mod (fiverr commission)
+>[1.16 mods provided](https://github.com/eqqo-official/Melior/tree/main/Mods%20for%20Resource) - I own the MinimalHUD mod (fiverr commission)
 
 ## Dried Nether Wood
 
@@ -44,7 +44,7 @@ Dried variants of **WARPED STEM** and **CRIMSON STEM** and all of their accompan
 
 Obtained by smelting those blocks into their respective ***DRIED*** variants
   
->[Texture Resource](https://github.com/eqqo-official/Melior/tree/main/Mods%20for%20Resource/Dried%20Nether%20Variants)
+>[Textures Provided](https://github.com/eqqo-official/Melior/tree/main/Mods%20for%20Resource/Dried%20Nether%20Variants)
 
 ## Heart of the Sea Magnet
 <p align="center">
@@ -58,7 +58,7 @@ Right click it whilst holding to ACTIVATE or DEACTIVATE the magnet functionality
 ## Villager Fixes
 
 Implementation of another mod I had commissioned that stops the **VILLAGERS** from forgetting where their **BED** and **WORKSTATION** was.
->[Previous mod provided](https://github.com/eqqo-official/Melior/tree/main/Mods%20for%20Resource) - I own the Villager Persistence mod - (fiverr commission)
+>[Previous 1.16 mod provided](https://github.com/eqqo-official/Melior/tree/main/Mods%20for%20Resource) - I own the Villager Persistence mod - (fiverr commission)
 
 Potentially also add a fix for the villager AI's confusion around **TRAPDOORS**.
 
@@ -67,7 +67,7 @@ Potentially also add a fix for the villager AI's confusion around **TRAPDOORS**.
 </p>
 
 Also implement ***ZOMBIE-PROOF DOORS*** so villagers are safe once they're inside.
->[Previous mod provided](https://github.com/eqqo-official/Melior/blob/main/Mods%20for%20Resource)
+>[Previous 1.16 mod provided](https://github.com/eqqo-official/Melior/blob/main/Mods%20for%20Resource)
 
 <br>
   ______________
@@ -77,11 +77,7 @@ Also implement ***ZOMBIE-PROOF DOORS*** so villagers are safe once they're insid
 
   # Implementation of other mods' features:
 
-Depending on the licensing, these chosen mod features may be able to be extracted and implemented with proper credit given, in order to trim unwanted content.
-
-Or instead, inclusion of config-set mods in a potential **EQQO MODPACK**
-  
-  Include credit and reference to all mods included.
+Update these outdated mods to 1.19 and implement some of their features into the Melior mod.
   
 # Better Foliage
 
