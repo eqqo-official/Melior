@@ -7,7 +7,7 @@ A vanilla+ mod focused on beautification and immersion for Forge 1.19.2 (with po
 
 Original mod ideas and choice implementation of existing mods' features, unified into a single place to best imitate the experience of Eqqo's Minecraft world.
 
->[Resources for previous version mods provided](https://github.com/eqqo-official/Melior/tree/main/Mods%20for%20Resource)
+>[1.16 versions of mods provided](https://github.com/eqqo-official/Melior/tree/main/Mods%20for%20Resource)
 
 ### Planned Feature List:
 
