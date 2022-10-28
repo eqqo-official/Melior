@@ -66,9 +66,6 @@ Potentially also add a fix for the villager AI's confusion around **TRAPDOORS**.
   <img src=https://github.com/eqqo-official/Melior/blob/main/Graphics/villager-trapdoor.gif
 </p>
 
-Also implement ***ZOMBIE-PROOF DOORS*** so villagers are safe once they're inside.
->[Previous 1.16 mod provided](https://github.com/eqqo-official/Melior/blob/main/Mods%20for%20Resource)
-
 <br>
   ______________
   <br>
