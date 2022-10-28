@@ -32,7 +32,7 @@ Remove **CROSSHAIR** and **POTION EFFECTS** from HUD, and implement **AUTOHIDE H
 
 When the player scrolls the hotbar reappears for a few seconds then hides away again for that *minimal aesthetic*.
 
->[1.16 mods provided](https://github.com/eqqo-official/Melior/tree/main/Mods%20for%20Resource) - I own the MinimalHUD mod (fiverr commission)
+>[1.16 mods provided](https://github.com/eqqo-official/Melior/tree/main/Mods%20for%20Resource) - I own the MinimalHUD mod
 
 ## Dried Nether Wood
 
@@ -58,7 +58,7 @@ Right click it whilst holding to ACTIVATE or DEACTIVATE the magnet functionality
 ## Villager Fixes
 
 Implementation of another mod I had commissioned that stops the **VILLAGERS** from forgetting where their **BED** and **WORKSTATION** was.
->[Previous 1.16 mod provided](https://github.com/eqqo-official/Melior/tree/main/Mods%20for%20Resource) - I own the Villager Persistence mod - (fiverr commission)
+>[Previous 1.16 mod provided](https://github.com/eqqo-official/Melior/tree/main/Mods%20for%20Resource) - I own the Villager Persistence mod
 
 Potentially also add a fix for the villager AI's confusion around **TRAPDOORS**.
 
