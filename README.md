@@ -62,12 +62,12 @@ Implementation of another mod I had commissioned that stops the **VILLAGERS** fr
 
 Potentially also add a fix for the villager AI's confusion around **TRAPDOORS**.
 
-Although, presumably this is a more difficult task than just updating and implementing pre-made 1.16 mods.
-So this may need to be it's own project for later...
-
 <p align="center">
   <img src=https://github.com/eqqo-official/Melior/blob/main/Graphics/villager-trapdoor.gif
 </p>
+
+Although, presumably this is a more difficult task than just updating and implementing pre-made 1.16 mods.
+So this may need to be it's own project for later...
 
 <br>
   ______________
